@@ -1,0 +1,28 @@
+.ic_team {
+    background-image: url(https://media.discordapp.net/attachments/921558341791129671/921558449333088276/someimage.gif) !important;
+    width: 70px !important;
+    border-radius: 20px
+}
+
+.settings > * {
+    font-family: monospace
+}
+
+.text-set {
+    margin: 2px;
+    border: 2px solid;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 2px
+}
+
+.text-set:hover {
+    background-color: #000;
+    color: #fff
+}
+
+.setting-selected {
+    background-color: #000;
+    color: #fff
+}
